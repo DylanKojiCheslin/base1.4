@@ -19,3 +19,9 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+ddp-rate-limiter
+mdg:validated-method
+aldeed:simple-schema
+kadira:flow-router
+kadira:blaze-layout
+zimme:active-route
